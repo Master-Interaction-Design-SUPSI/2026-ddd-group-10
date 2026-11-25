@@ -1,6 +1,6 @@
 ---
 title: The energy price of speed
-authors: Lars Müller, Chiara Giancamilli
+authors: Lars Müller,  Chiara Giancamilli
 ---
 
 When an AI model generates an image or a short video, the work runs on **graphics processing units (GPUs)** [[h100 gpu]] [[server sound]] in a data centre [[data centre rack]] [[listen|https://www.youtube.com/watch?v=gc5XZJfF0kQ]]. To deliver results faster, providers split one job across 2, 4 or 8 GPUs. Users notice the speed; the **electricity** behind it stays invisible. Our sub-topic belongs to {#0EB5BE|**infrastructure and computation**}: it makes one material trace of AI, the energy drawn by its chips, measurable for a single output [[Crawford, 2021. Atlas of AI|https://yalebooks.yale.edu/book/9780300252392/atlas-of-ai/|type=bibliography]] [[O'Donnell and Crownhart, 2025. We did the math on AI's energy footprint|https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/|type=bibliography]].
